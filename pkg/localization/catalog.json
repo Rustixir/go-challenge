@@ -1,0 +1,16 @@
+{
+  "en": {
+    "not_found": "Not found",
+    "internal_server_error": "Internal server error",
+    "invalid_segment": "Invalid segment",
+    "invalid_user": "Invalid user",
+    "invalid_request": "Invalid request"
+  },
+  "fa": {
+    "not_found": "پیدا نشد",
+    "internal_server_error": "خطای سرور داخلی",
+    "invalid_segment": "سگمنت نامعتبر است",
+    "invalid_user": "کاربر نامعتبر است",
+    "invalid_request": "درخواست نامعتبر است"
+  }
+}
