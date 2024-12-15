@@ -3,7 +3,7 @@ package errutil
 import "net/http"
 
 var (
-	ErrNotFound            = NewKeyError("not found", http.StatusNotFound)
+	ErrNotFound            = NewKeyError("not_found", http.StatusNotFound)
 	ErrInternalServerError = NewKeyError("internal_server_error", http.StatusInternalServerError)
 	ErrInvalidSegment      = NewKeyError("invalid_segment", http.StatusBadRequest)
 	ErrInvalidUser         = NewKeyError("invalid_user", http.StatusBadRequest)
